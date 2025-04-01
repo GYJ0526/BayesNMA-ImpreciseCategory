@@ -16,4 +16,4 @@ Analysis code written in Fortran
 
 Reference
 
-**Gwon Y et al. ** Bayesian Network Meta-Regression for Aggregate Ordinal Outcomes with Imprecise Categories
+**Gwon Y et al.** Bayesian Network Meta-Regression for Aggregate Ordinal Outcomes with Imprecise Categories
