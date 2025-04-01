@@ -14,6 +14,6 @@ Analysis code written in Fortran
 6. tnorm.f
   : Sampling code for generation of the truncated normal distribution
 
-Reference
+## Reference
 
 **Gwon Y et al.** Bayesian Network Meta-Regression for Aggregate Ordinal Outcomes with Imprecise Categories
