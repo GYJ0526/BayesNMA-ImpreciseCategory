@@ -15,4 +15,5 @@ Analysis code written in Fortran
   : Sampling code for generation of the truncated normal distribution
 
 Reference
-Bayesian Network Meta-Regression for Aggregate Ordinal Outcomes with Imprecise Categories
+
+**Gwon Y et al. ** Bayesian Network Meta-Regression for Aggregate Ordinal Outcomes with Imprecise Categories
