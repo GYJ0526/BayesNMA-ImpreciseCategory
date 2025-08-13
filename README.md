@@ -16,4 +16,4 @@ Analysis code written in Fortran
 
 ## Reference
 
-**Gwon Y et al.** Bayesian Network Meta-Regression for Aggregate Ordinal Outcomes with Imprecise Categories
+**Gwon Y**, Chen M-H, May Mo, Jiang X, Xia A, and Ibrahim JG. (2025) "Bayesian Network Meta-Regression for Aggregate Ordinal Outcomes with Imprecise Categories", Journal of Biopharmaceutical Statistics.
